@@ -1,0 +1,59 @@
+    /*the background*/
+    
+    body {
+        width: 80%;
+        margin-top: 10%;
+        margin-left: 40%;
+        margin-right: 30%;
+        background-image: url(Images/1.jpg);
+        background-position: center;
+        background-size: cover;
+    }
+    /*the form's positioning and styling*/
+    
+    form {
+        min-height: 400px;
+        width: 300px;
+        border: 1px solid #D8D8D8;
+        padding: 10px;
+        border-radius: 5px;
+        font-family: Arial;
+        font-size: 11px;
+        text-transform: uppercase;
+        background-color: rgb(255, 255, 255);
+        color: rgb(15, 17, 15);
+        text-align: center;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    
+    input[type="text"],
+    input[type=password] {
+        width: 300px;
+        height: 35px;
+        position: relative;
+        margin-top: 20;
+        top: 20;
+        padding-left: 5px;
+        outline: none;
+    }
+    
+    p {
+        text-align: center;
+        font-size: 25px;
+        margin-top: -30px;
+        padding-bottom: 30px
+    }
+    
+    button {
+        position: relative;
+        margin-top: 20px;
+        top: 32;
+        width: 300px;
+        height: 35px;
+        border: none;
+        outline: none;
+        background-color: rgb(0, 57, 110);
+        color: white;
+        border-radius:
+    }
